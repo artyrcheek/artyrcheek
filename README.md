@@ -1,5 +1,5 @@
 # Hey 👋 I’m Arthur, nice to meet you!
-I’m a [Shopify](https://www.shopify.co.uk/) developer with over 4 years of development experience under my belt.
+I’m building for [Shopify](https://www.shopify.co.uk/) at [Madesuper](https://madesuper.com)
 
 <!--
 **artyrcheek/artyrcheek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
