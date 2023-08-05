@@ -1,5 +1,5 @@
 # Hey 👋 I’m Arthur, nice to meet you!
-I’m building for [Shopify](https://www.shopify.co.uk/) at [Madesuper](https://madesuper.com)
+I’m building for [Shopify](https://www.shopify.co.uk/) at [Supercycle](https://supercycle.com)
 
 <!--
 **artyrcheek/artyrcheek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
