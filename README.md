@@ -1,4 +1,4 @@
-# Hey 👋 I’m Arthur, nice to meet you!
+# Hey 👋 I’m Arthur
 I’m building for [Shopify](https://www.shopify.co.uk/) at [Supercycle](https://supercycle.com)
 
 <!--
